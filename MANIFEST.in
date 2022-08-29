@@ -1,0 +1,2 @@
+recursive-include src/shopyo_demo *
+recursive-exclude __pycache__ *

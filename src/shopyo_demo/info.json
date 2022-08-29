@@ -1,0 +1,12 @@
+{
+    "author": {
+        "mail": "",
+        "name": "",
+        "website": ""
+    },
+    "display_string": "Demo shopyo app",
+    "fa-icon": "fa fa-store",
+    "module_name": "shopyo_demo",
+    "type": "show",
+    "url_prefix": "/demo"
+}
